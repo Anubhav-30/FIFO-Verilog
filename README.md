@@ -57,10 +57,10 @@ gtkwave fifo.vcd
 📊 Waveform Output
 
 GTKWave
-[Waveform GTKWave] (Waveform_gtkwave.png)
+![Waveform GTKWave](waveform_gtkwave.png)
 
 VS Code
-[Waveform VS][waveforn_vs.png]
+![Waveform VS](waveform_vs.png)
 
 👉 The waveforms show that:
 - Data is read in the same order as it is written
