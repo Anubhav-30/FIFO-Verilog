@@ -57,7 +57,7 @@ gtkwave fifo.vcd
 📊 Waveform Output
 
 GTKWave
-[Waveform GTKWave](Waveform_gtkwave.png)
+[Waveform GTKWave] (Waveform_gtkwave.png)
 
 VS Code
 [Waveform VS][waveforn_vs.png]
