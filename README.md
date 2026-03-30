@@ -1,5 +1,13 @@
 FIFO Design in Verilog
 
+**Author: Anubhav**  
+
+[![Language](https://img.shields.io/badge/Language-Verilog-blue)](https://www.verilog.com/)  
+[![Status](https://img.shields.io/badge/Status-Completed-success)](https://github.com/)  
+[![Simulation](https://img.shields.io/badge/Tool-GTKWave-orange)](https://gtkwave.sourceforge.net/)  
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)  
+
+
 📌 Overview
 I designed and implemented a Synchronous FIFO (First-In-First-Out) using Verilog to understand how data buffering works in digital systems.
 FIFO ensures that the first data entered is the first one to come out, maintaining proper order.
@@ -78,10 +86,5 @@ VS Code
 🎯 Conclusion
 Through this project, I learned how FIFO works internally using pointers and control logic.
 This helped me understand important concepts like data flow, memory handling, and synchronization in digital design.
-
-
-👤 Author
-
-Anubhav
 
 [def]: Waveform_vs.png
