@@ -1,4 +1,4 @@
-FIFO Design in Verilog
+<h1 align="center">🚀 FIFO Design in Verilog</h1>
 
 **Author: Anubhav**  
 
