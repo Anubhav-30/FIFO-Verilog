@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)  
 
 
-📌 Overview
+📌 Overview.
 I designed and implemented a Synchronous FIFO (First-In-First-Out) using Verilog to understand how data buffering works in digital systems.
 FIFO ensures that the first data entered is the first one to come out, maintaining proper order.
 
